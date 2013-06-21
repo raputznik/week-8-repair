@@ -12,4 +12,4 @@ Fix the 10 issues with this project.
 5) find the errors and fix. Commit with details of fixed after EACH issue you find.<br/>
 <br/>
 <br/>
-<strong>We will go over the assignment in class Friday.</strong>
+<strong>We will go over the assignment in class Wednesday June 26th.</strong>
