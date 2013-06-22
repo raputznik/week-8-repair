@@ -3,7 +3,7 @@ jQuery(document).ready(function($) {
 		console.log("Submit button was clicked");
 	});
 	('.form').validate({
-		rules  :{
+		rules: {
 			username :{
 				required: true,
 				email : true
@@ -16,8 +16,8 @@ jQuery(document).ready(function($) {
 			}
 		},
 
-		messages : {
-			username : {
+			messages : {
+				username : {
 				required : "Come on don't be shy",
 				email : "Your email looks funny"
 			},
@@ -28,6 +28,7 @@ jQuery(document).ready(function($) {
 				maxlength : jQuery.format("Your password can't be longer than {0} characters")
 			
 		}
+
 
 	});
 });
